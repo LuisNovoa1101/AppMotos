@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--stroke = color dela linea del boton
+        width = grosor de la linea del boton-->
+    <stroke android:color="@color/md_black_1000" android:width="10dp"></stroke>
+    <corners android:radius="8dp"></corners>
+
+
+</shape>

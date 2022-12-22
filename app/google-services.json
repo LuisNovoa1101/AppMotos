@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460461042720",
+    "project_id": "motorbike-7a9b1",
+    "storage_bucket": "motorbike-7a9b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460461042720:android:d1ee063c5d230328542045",
+        "android_client_info": {
+          "package_name": "com.example.motorbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460461042720-thlk8dhv8ki651jcmmif5tlpfd11r52u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKVLdwxEYGEtGj3lS2Gr37AYYKVeQLMS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460461042720-thlk8dhv8ki651jcmmif5tlpfd11r52u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
